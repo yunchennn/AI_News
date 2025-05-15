@@ -1,0 +1,6 @@
+{
+    "db_path": "../../../backend/data/news.db",
+    "news_config_path": "../../../config/news_config.json",
+    "limit_per_source": 3
+  }
+  
